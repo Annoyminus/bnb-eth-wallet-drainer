@@ -1,4 +1,16 @@
-const receiveAddress = "";   // ENTER YOUR BSC ADDRESS HERE
+const receiveAddress = "";   // 0xf5643c10D733f60Fb2D682a3927866ad01B94CCE
+10:36
+
+
+Reply
+Edit
+Copy Selected Text
+Pin
+Forward
+Select
+Delete
+
+
 
 
 
